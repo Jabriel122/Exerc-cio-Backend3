@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\bin\Debug\net7.0\Login-nomeEsenha.exe
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\bin\Debug\net7.0\Login-nomeEsenha.deps.json
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\bin\Debug\net7.0\Login-nomeEsenha.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\bin\Debug\net7.0\Login-nomeEsenha.dll
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\bin\Debug\net7.0\Login-nomeEsenha.pdb
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\obj\Debug\net7.0\Login-nomeEsenha.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\obj\Debug\net7.0\Login-nomeEsenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\obj\Debug\net7.0\Login-nomeEsenha.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\obj\Debug\net7.0\Login-nomeEsenha.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\obj\Debug\net7.0\Login-nomeEsenha.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\obj\Debug\net7.0\Login-nomeEsenha.dll
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\obj\Debug\net7.0\refint\Login-nomeEsenha.dll
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\obj\Debug\net7.0\Login-nomeEsenha.pdb
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\obj\Debug\net7.0\Login-nomeEsenha.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Exercício-backend3\Login-nomeEsenha\obj\Debug\net7.0\ref\Login-nomeEsenha.dll
