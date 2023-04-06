@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\bin\Debug\net7.0\numero-inteirotabu.exe
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\bin\Debug\net7.0\numero-inteirotabu.deps.json
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\bin\Debug\net7.0\numero-inteirotabu.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\bin\Debug\net7.0\numero-inteirotabu.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\bin\Debug\net7.0\numero-inteirotabu.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\obj\Debug\net7.0\numero-inteirotabu.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\obj\Debug\net7.0\numero-inteirotabu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\obj\Debug\net7.0\numero-inteirotabu.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\obj\Debug\net7.0\numero-inteirotabu.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\obj\Debug\net7.0\numero-inteirotabu.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\obj\Debug\net7.0\numero-inteirotabu.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\obj\Debug\net7.0\refint\numero-inteirotabu.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\obj\Debug\net7.0\numero-inteirotabu.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\obj\Debug\net7.0\numero-inteirotabu.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-Backend3\Exercício-backend3\numero-inteirotabu\obj\Debug\net7.0\ref\numero-inteirotabu.dll
